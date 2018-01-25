@@ -1,0 +1,24 @@
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\bin\Debug\EgbinInstrumentInfoApp.exe.config
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\bin\Debug\EgbinInstrumentInfoApp.exe
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\bin\Debug\EgbinInstrumentInfoApp.pdb
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.Categories.resources
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.Login.resources
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.MainMenu.resources
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.Properties.Resources.resources
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.csproj.GenerateResource.Cache
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.exe
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.pdb
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\Prowess\Documents\Visual Studio 2015\Projects\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\bin\Debug\MySql.Data.dll
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\bin\Debug\EgbinInstrumentInfoApp.exe.config
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.exe
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.pdb
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\bin\Debug\EgbinInstrumentInfoApp.exe
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\bin\Debug\EgbinInstrumentInfoApp.pdb
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\bin\Debug\MySql.Data.dll
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.Categories.resources
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.Login.resources
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.MainMenu.resources
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.Properties.Resources.resources
+C:\Users\Prowess\Dropbox\Our Folder\EgbinInstrumentInfoApp\EgbinInstrumentInfoApp\obj\Debug\EgbinInstrumentInfoApp.csproj.GenerateResource.Cache
